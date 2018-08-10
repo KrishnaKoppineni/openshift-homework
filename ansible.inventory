@@ -236,8 +236,6 @@ node3.eb64.internal openshift_hostname=node3.eb64.internal  openshift_node_label
 
 ## These are CNS nodes
 support1.eb64.internal openshift_hostname=support1.eb64.internal  openshift_node_labels="{'env':'glusterfs', 'cluster': 'eb64'}"
-support2.eb64.internal openshift_hostname=support2.eb64.internal  openshift_node_labels="{'env':'glusterfs', 'cluster': 'eb64'}"
-support3.eb64.internal openshift_hostname=support3.eb64.internal  openshift_node_labels="{'env':'glusterfs', 'cluster': 'eb64'}"
 
 [nfs]
 support1.eb64.internal openshift_hostname=support1.eb64.internal
