@@ -203,8 +203,8 @@ masters
 etcd
 nodes
 nfs
-new_nodes
-glusterfs
+#new_nodes
+#glusterfs
 
 [lb]
 loadbalancer1.eb64.internal
